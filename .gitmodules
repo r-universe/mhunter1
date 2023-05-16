@@ -8,3 +8,8 @@
 	url = https://github.com/mhunter1/dynr
 	shallow = true
 	registered = true
+[submodule "EasyMx"]
+	path = EasyMx
+	url = https://bitbucket.org/mhunter/easymx
+	shallow = true
+	registered = true
